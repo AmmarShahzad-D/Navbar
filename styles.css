@@ -1,0 +1,9 @@
+
+/* :hover{
+transform: rotate(90deg);
+transition: 1s all;
+} */
+
+.navbar-toggler-icon {
+    transition: transform 0.3s ease;
+  }
